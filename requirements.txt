@@ -3,10 +3,4 @@ uvicorn
 numpy
 panda
 matplotlib
-numbers
-datetime
-time
-sys
 pyodbc
-re
-json
